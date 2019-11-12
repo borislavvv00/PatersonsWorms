@@ -1,0 +1,4 @@
+﻿  PatersonsWorms.cpp
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\patersonsworms\patersonsworms\patersonsworms.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PatersonsWorms.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\PatersonsWorms\Debug\PatersonsWorms.exe
+  PatersonsWorms.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\PatersonsWorms\Debug\PatersonsWorms.pdb (Full PDB)
