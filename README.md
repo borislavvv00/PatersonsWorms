@@ -1,6 +1,6 @@
 # PatersonsWorms
 
-This is a two dimentional turing machine. Contains grid of dots each of which can be conected with it's six nearby dots. On this grid are
+This is a two dimensional turing machine. Contains grid of dots each of which can be conected with it's six nearby dots. On this grid are
 placed worms. Each worm moves from dot to her nearby dot and makes path between the dots. If a worm is on a dot which is connected with all
 it's nearby dots, the worm dies.
 
